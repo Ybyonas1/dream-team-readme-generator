@@ -1,7 +1,7 @@
 # ReadME Generator Assignment
     https://github.com/Ybyonas1/ReadME Generator Assignment
   # Description
-  This is a Readme generator assignment for unit 9 of the UCC Coding Bootcamp.
+  This is a Readme generator assignment for unit 9 of the UNCC Coding Bootcamp.
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -26,5 +26,5 @@
   # Test
   The following is needed to run the test: To test the functionality of this project, the user must use the Terminal on a computer
   # Questions
-  If you have any questions about the repo or this project, feel free to contact me at: Ybyonas1
+  If you have any questions about the repo or this project, feel free to contact me at: ybyonas@gmail.com
 

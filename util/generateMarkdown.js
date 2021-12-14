@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   # Test
   The following is needed to run the test: ${data.Test}
   # Questions
-  If you have any questions about the repo or this project, feel free to contact me at: ${data.Github}
+  If you have any questions about the repo or this project, feel free to contact me at: ${data.email}
 
 `;
 }
